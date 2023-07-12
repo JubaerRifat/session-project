@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(39, 34, 34);
+    padding: 20px;
+    height:  30px;
+    
+}
