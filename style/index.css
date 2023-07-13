@@ -35,6 +35,44 @@
 .banner-container{
     display: flex;
     justify-content: space-around;
-    
+    height: 100vh;
+    align-items: center;
+    /* border: 2px solid gray; */
+    background-image: url("images/background.png"),linear-gradient(45deg,#080808,#000);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tittle{
+    font-size: 55px;
+    font-weight:bold;
+
+}
+.description{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bt{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    margin: 20px;
+}
+.about-tittle{
+    text-align: center;
+    padding: 20px;
 
 }
