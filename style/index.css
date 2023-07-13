@@ -76,3 +76,41 @@
     padding: 20px;
 
 }
+
+
+.box11{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+
+
+}
+.icon{
+    width: 70px;
+
+    
+
+}
+    
+.btn-last{
+    background-color: gray;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+.box-tittle{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+}
+.last-container{
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+}
